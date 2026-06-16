@@ -1,1 +1,2 @@
-node index.js
+git clone https://github.com/sil3nt-wolf/silentwolf.git
+cd silentwolf
